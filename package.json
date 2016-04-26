@@ -1,6 +1,6 @@
 {
-  "name": "@kadira/react-split-pane",
-  "description": "React split-pane component",
+  "name": "antialias-react-split-pane",
+  "description": "React split-pane component. Forked and de-namespaced.",
   "main": "index.js",
   "version": "1.3.0",
   "repository": {
